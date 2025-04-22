@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="screenshots/logo.png" width="80px"><br/>Carhire</h1>
+      <h1> </h1>
       <h3>Carhire</h3>
 </div>
 
@@ -43,7 +43,7 @@ A comprehensive carhire with separate interfaces for administrators and users. B
 <div align="center">
   <img src="screenshots/add-car.png" alt="Add New Car" width="400"/>
   <img src="screenshots/edit-car.png" alt="Edit Car Details" width="400"/>
-  <p><em>Carhire</em></p>
+  <p><em>Car management interface</em></p>
 </div>
 
 ### User Interface
@@ -105,6 +105,7 @@ A comprehensive carhire with separate interfaces for administrators and users. B
 - Secure authentication
 
 
+## Project Structure
 
 ```
 ├── index.html
